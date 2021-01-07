@@ -1,0 +1,110 @@
+For some reason log.txt file was not there when i used command .
+
+C:\Users\User\Desktop\byt10 (master)
+λ git log --stat
+commit 60d52e2066a89173cb63982afe4e5955eab381ef (HEAD -> master)
+Merge: 5c18bfe 01a2d78
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 18:18:47 2021 +0600
+
+    final
+
+commit 01a2d78d1ff192fc640aa2340ae84a1cb752513b (newbranch)
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 18:14:04 2021 +0600
+
+    bbb
+
+ mytext.txt | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+
+commit 5c18bfe06b220d00918a40d94afadfc9f69dc7da
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 18:10:05 2021 +0600
+
+    bn
+
+ mytext.txt | 5 +----
+ 1 file changed, 1 insertion(+), 4 deletions(-)
+
+commit 2618552ce3263e65696a71c68a279389f70a7e0f
+Merge: 3aca167 50192fb
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 18:05:41 2021 +0600
+
+    final
+
+commit 50192fb70196eb4b810682f28accfcacb296841b
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:56:21 2021 +0600
+
+    adding file to the new branch
+
+commit 60d52e2066a89173cb63982afe4e5955eab381ef (HEAD -> master)>
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3aca167a736d95e772325b18ac7a8129a07485aa
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:51:04 2021 +0600
+
+    file
+
+ mytext.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit aced1236b2be7fd1538dd0d07ca348c252cd8291
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:42:43 2021 +0600
+
+    addinf second file
+
+ mysecond.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9a3562441a61e54e83ad435bdd9b5276943f8457
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:40:52 2021 +0600
+
+    adding mytext
+
+ mytext.txt | 1 +
+ 1 file changed, 1 insertion(+)
+
+    final
+
+commit 50192fb70196eb4b810682f28accfcacb296841b
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:56:21 2021 +0600
+
+    adding file to the new branch
+
+ mytext.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit 3aca167a736d95e772325b18ac7a8129a07485aa
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:51:04 2021 +0600
+
+    file
+
+ mytext.txt | 2 +-
+ 1 file changed, 1 insertion(+), 1 deletion(-)
+
+commit aced1236b2be7fd1538dd0d07ca348c252cd8291
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:42:43 2021 +0600
+
+    addinf second file
+
+ mysecond.txt | 0
+ 1 file changed, 0 insertions(+), 0 deletions(-)
+
+commit 9a3562441a61e54e83ad435bdd9b5276943f8457
+Author: aliia.baimuratova@gmail.com <aliia.baimuratova@gmail.com>
+Date:   Thu Jan 7 17:40:52 2021 +0600
+
+    adding mytext
+
+ mytext.txt | 1 +
+ 1 file changed, 1 insertion(+)
+(END)
